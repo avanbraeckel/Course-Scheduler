@@ -1,0 +1,28 @@
+.add-form {
+	display: flex;
+	width: 100%;
+	margin-left: 15%;
+	align-items: center;
+}
+
+#loadBtn {
+	margin-left: 1%;
+	white-space: nowrap;
+	display: flex;
+	justify-content: center;
+	margin-left: 1%;
+	max-height: 38px;
+}
+
+.search-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-left: 15%;
+}
+
+.outer-form-control {
+	width: 100%;
+	min-width: 100px;
+}
+
