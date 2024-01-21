@@ -1,8 +1,4 @@
-# CIS*3760 G103 Course Scheduler Sprint-9
-
-[**Presentation Slides**](https://docs.google.com/presentation/d/1f0QDRNZzOD9Xm_O74c_FHtWJPr_OfDM5_Rg2s3R0m2E/edit?usp=sharing)
-
-[**Website**](https://34.130.11.106/)
+# CIS*3760 - Group 103 - Course Scheduler
 
 ## Running Docker Locally
 
